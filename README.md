@@ -16,8 +16,3 @@
   
 </div>
 
- <style>
-    h1{
-        fonte-size: 10px; 
-    }   
- </style>
