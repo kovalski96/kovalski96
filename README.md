@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Kovalski aqui! </h1>
+<h1 align="center" >Bruno Kovalski aqui! </h1>
     <div align="center">
     <p>reaprendendo a programar depois de 7 anos parado...</p>
     <p>CEO e coFunder da comunidade <a href="https://decodefy.com.br" target="_blank">deCodefy</a></p>
@@ -16,3 +16,8 @@
   
 </div>
 
+ <style>
+    h1{
+        fonte-size: 10px; 
+    }   
+ </style>
