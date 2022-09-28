@@ -1,7 +1,5 @@
 <h1 align="center" >Bruno Kovalski aqui! </h1>
     <div align="center">
-    <p>reaprendendo a programar depois de 7 anos parado...</p>
-    <a href="https://decodefy.com.br" target="_blank">deCodefy</a>
 </div>
 
 <div align="center">
